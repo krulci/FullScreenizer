@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FullScreenizer", "FullScreenizer\FullScreenizer.csproj", "{8586219E-2E02-44DD-94D7-D3CA9A3FFC6A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8586219E-2E02-44DD-94D7-D3CA9A3FFC6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8586219E-2E02-44DD-94D7-D3CA9A3FFC6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8586219E-2E02-44DD-94D7-D3CA9A3FFC6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8586219E-2E02-44DD-94D7-D3CA9A3FFC6A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6699EF6-9D10-4AC3-8109-C62DB393DC7E}
+	EndGlobalSection
+EndGlobal
